@@ -1,4 +1,4 @@
-# enigma
+# Enigma encoder
 
 This project was made for demonstrative purposes
 
