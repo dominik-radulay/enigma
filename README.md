@@ -2,7 +2,8 @@
 
 This project was made for demonstraton of understanding of Java language
 ***********************************************************************************************************************************
-For testing program download attached jar file
+For testing of the program download jar file "enigmacoder.jar"
+***********************************************************************************************************************************
 Source code can be downloaded in an attached zip file or as separate files inside "enigmacoder" folder
 ***********************************************************************************************************************************
 Initial Configurations sets initial positions of "Rotors", before encoding of each letter, the "Fast rotor" moves by one position, untill finish whole rotation, after that, medium rotor move by one position. This proces continues until medium rotor finish whole rotation, which result in move of slow rotor by one position.
