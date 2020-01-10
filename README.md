@@ -1,6 +1,6 @@
 # Enigma encoder
 ***********************************************************************************************************************************
-This project was made for demonstrative purposes
+This project was made for demonstrating understanding of Java language
 ***********************************************************************************************************************************
 For testing program download attached jar file
 Source code can be downloaded in an attached zip file or as separate files inside "enigmacoder" folder
