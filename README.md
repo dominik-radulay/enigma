@@ -3,6 +3,14 @@
 This project was made for demonstrative purposes
 
 
+For testing program download attached jar file
+Source code can be downloaded in an attached zip file or as separate files inside "enigmacoder" folder
+
+
+
+
+
+
 Initial Configurations sets initial positions of "Rotors", before encoding of each letter, the "Fast rotor" moves by one position, untill finish whole rotation, after that, medium rotor move by one position. This proces continues until medium rotor finish whole rotation, which result in move of slow rotor by one position.
 
 The Enigma encoding is symmetrical. If the A-key is transformed into the letter Q, 
