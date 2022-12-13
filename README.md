@@ -1,6 +1,6 @@
 # Enigma encoder
 
-This project was made for demonstraton of understanding of Java language
+This project was made for demonstraton of understanding of Java language during my first year at University
 ***********************************************************************************************************************************
 For testing of the program download jar file "enigmacoder.jar"
 ***********************************************************************************************************************************
